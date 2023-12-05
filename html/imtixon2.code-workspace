@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "scss-bem-start-main",
+			"path": ".."
+		},
+		{
+			"name": "img",
+			"path": "../../imtixon/img"
+		}
+	],
+	"settings": {}
+}
